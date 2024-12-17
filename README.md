@@ -3,3 +3,4 @@ With over 10 years of experience as a software engineer, I am a seasoned full-st
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tungqddev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quachvanbach&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
